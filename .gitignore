@@ -1,6 +1,6 @@
 # Ignore everything
-week1/
+week1/*
 Graded Assessment/
-week2/
+week2/*
 # Allow only the specific file
 !week2/Implementing_VAEs.ipynb
