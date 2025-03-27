@@ -2,6 +2,5 @@
 week1/
 Graded Assessment/
 week2/
-
 # Allow only the specific file
 !week2/Implementing_VAEs.ipynb
