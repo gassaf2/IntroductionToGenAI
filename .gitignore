@@ -4,3 +4,4 @@ Graded Assessment/
 week2/*
 # Allow only the specific file
 !week2/Implementing_VAEs.ipynb
+!week2/Implementing_a_Simple_GAN.ipynb
