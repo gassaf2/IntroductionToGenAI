@@ -3,9 +3,12 @@ week1/*
 Graded Assessment/
 week2/*
 week3/*
+week4/*
+
 # Allow only the specific file
 !week2/Implementing_VAEs.ipynb
 !week2/Implementing_a_Simple_GAN.ipynb
 !week3/Experimenting_with_LLMs.ipynb
 !week3/Building_a_Simplified_Transformer_Encoder.ipynb
 !week3/Visualizing_the_Self_Attention_Mechanism_.ipynb
+!week4/Implementing_a_Simple_Diffusion_Model.ipynb
